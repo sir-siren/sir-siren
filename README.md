@@ -11,6 +11,7 @@
 I am a passionate software developer with a love for creating innovative and efficient solutions. My journey in the world of programming began years ago, and since then, I've been continuously exploring and expanding my skills in various technologies and programming languages.<br>
 <br>I believe in the power of collaboration and open-source development, which is why you'll find an assortment of projects on my GitHub that reflect my interests and contributions to the community. From web development to data analysis and machine learning, I enjoy tackling diverse challenges and learning from every experience.<br>
 <br>I am always eager to connect with like-minded individuals, exchange ideas, and collaborate on exciting projects. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or potential collaborations in mind. Let's build an inspiring future together through code!
+<p><img src="https://metrics.lecoq.io/sir-siren"><p>
 
 ## 🎭 Profile Views:
 [![](https://visitcount.itsvg.in/api?id=sir-siren&icon=0&color=1)](https://visitcount.itsvg.in)
@@ -24,6 +25,7 @@ I am a passionate software developer with a love for creating innovative and eff
 ![](https://github-readme-stats.vercel.app/api?username=sir-siren&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sir-siren&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sir-siren&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sir-siren&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
