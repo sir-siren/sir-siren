@@ -1,6 +1,11 @@
-### Hi there 👋
-# I'm Siren,
-- 😄 Pronouns: HE / HIM / HIS
+### Hi there, I'm Siren 👋
+## I'm a Full Stack Web Developer | Data Scientist!
+- 📸 I'm currently working on a Project!
+- 🏫 I'm currently learning everything I can 🤣
+- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 😄 Pronouns: ʜᴇ•ʜɪᴍ•ʜɪs
+- 🌃 ɴʏᴄᴛᴏᴘʜɪʟɪᴀ.
+- 🍵 ᴄᴀғғᴇɪɴᴇ ᴅᴇᴘᴇɴᴅᴇᴅ ʟɪғᴇ ғᴏʀᴍ.
 
 # 💫 About Me:
 I am a passionate software developer with a love for creating innovative and efficient solutions. My journey in the world of programming began years ago, and since then, I've been continuously exploring and expanding my skills in various technologies and programming languages.<br>
