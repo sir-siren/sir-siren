@@ -11,7 +11,6 @@
 I am a passionate software developer with a love for creating innovative and efficient solutions. My journey in the world of programming began years ago, and since then, I've been continuously exploring and expanding my skills in various technologies and programming languages.<br>
 <br>I believe in the power of collaboration and open-source development, which is why you'll find an assortment of projects on my GitHub that reflect my interests and contributions to the community. From web development to data analysis and machine learning, I enjoy tackling diverse challenges and learning from every experience.<br>
 <br>I am always eager to connect with like-minded individuals, exchange ideas, and collaborate on exciting projects. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or potential collaborations in mind. Let's build an inspiring future together through code!
-<p><img src="https://metrics.lecoq.io/sir-siren"><p>
 
 ## 🎭 Profile Views:
 [![](https://visitcount.itsvg.in/api?id=sir-siren&icon=0&color=1)](https://visitcount.itsvg.in)
@@ -36,8 +35,8 @@ I am a passionate software developer with a love for creating innovative and eff
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sir-siren&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 ---
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://cdn.discordapp.com/attachments/1096839305751699527/1146556103035981874/Meme.png' style="height: 400px;"/>
 
 ---
