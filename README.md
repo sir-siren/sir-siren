@@ -38,6 +38,6 @@ I am a passionate software developer with a love for creating innovative and eff
 
 ### 😂 Random Dev Meme
 ---
-<img src="https://cdn.discordapp.com/attachments/1096839305751699527/1129770956525674506/meme.png" width="512px"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
