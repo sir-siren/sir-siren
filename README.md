@@ -1,16 +1,18 @@
-### Hi there, I'm Siren 👋
-## I'm a Full Stack Web Developer | Data Scientist!
-- 📸 I'm currently working on a Project!
-- 🏫 I'm currently learning everything I can 🤣
-- 🥅 2023 Goals: Contribute more to Open Source projects.
-- 😄 Pronouns: ʜᴇ•ʜɪᴍ•ʜɪs
+<p align="center">
+  <h3 align="center">𝐇𝐈 𝐓𝐇𝐄𝐑𝐄, 𝐈'𝐌 𝐒𝐈𝐑𝐄𝐍 ! 👋</h3>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer!;Data+Scientist!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="bio">
+</p>
+
 - 🌃 ɴʏᴄᴛᴏᴘʜɪʟɪᴀ.
+- 😄 Pronouns: ʜᴇ•ʜɪᴍ•ʜɪs
 - 🍵 ᴄᴀғғᴇɪɴᴇ ᴅᴇᴘᴇɴᴅᴇᴅ ʟɪғᴇ ғᴏʀᴍ.
+- 📚 ᴄᴏᴍᴍᴜɴɪᴛʏ ᴍᴀɴᴀɢᴇʀ ғᴏʀ sɪʟᴇɴᴛ ʟɪʙʀᴀʀʏ
+- 🏫 I'm currently learning everything I can 🤣
 
 # 💫 About Me:
-I am a passionate software developer with a love for creating innovative and efficient solutions. My journey in the world of programming began years ago, and since then, I've been continuously exploring and expanding my skills in various technologies and programming languages.<br>
-<br>I believe in the power of collaboration and open-source development, which is why you'll find an assortment of projects on my GitHub that reflect my interests and contributions to the community. From web development to data analysis and machine learning, I enjoy tackling diverse challenges and learning from every experience.<br>
-<br>I am always eager to connect with like-minded individuals, exchange ideas, and collaborate on exciting projects. Feel free to explore my repositories and don't hesitate to reach out if you have any questions or potential collaborations in mind. Let's build an inspiring future together through code!
+I am a passionate software developer with a love for creating innovative and efficient solutions. My journey in the world of programming began years ago, and since then, I've been continuously exploring and expanding my skills in various technologies and programming languages. From web development to data analysis and machine learning, I enjoy tackling diverse challenges and learning from every experience.
 
 ## 🎭 Profile Views:
 [![](https://visitcount.itsvg.in/api?id=sir-siren&icon=0&color=1)](https://visitcount.itsvg.in)
