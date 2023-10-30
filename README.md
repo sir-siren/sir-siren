@@ -1,32 +1,36 @@
 <p align="center">
-  <h2 align="center">HI THERE, I'M SIREN 👋</h3>
+  <h3 align="center">HI THERE, I'M SIREN 👋</h3>
 </p>
-<p align="center">
+<p align="center" style = "margin-bottom:0px">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer!;Data+Scientist!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="bio">
 </p>
+<p align="justify">
+  <strong>
+    <span>😄 Pronouns: ʜᴇ•ʜɪᴍ•ʜɪs</span> |
+    <span>👨‍🎓 ᴍ.sᴄ ᴄs ɢʀᴀᴅᴜᴀᴛᴇ</span> |
+    <span>🌃 ɴʏᴄᴛᴏᴘʜɪʟɪᴀ</span> |
+    <span>🍵 ᴄᴀғғᴇɪɴᴇ ᴅᴇᴘᴇɴᴅᴇᴅ ʟɪғᴇ ғᴏʀᴍ</span> |
+    <span>📚 ᴄᴏᴍᴍᴜɴɪᴛʏ ᴍᴀɴᴀɢᴇʀ ғᴏʀ sɪʟᴇɴᴛ ʟɪʙʀᴀʀʏ</span> |
+    <span>🏫 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴇᴠᴇʀʏᴛʜɪɴɢ ɪ ᴄᴀɴ 🤣</span>
+  </strong>
+</p>
 
-- **🌃 ɴʏᴄᴛᴏᴘʜɪʟɪᴀ.**
-- **😄 Pronouns: ʜᴇ•ʜɪᴍ•ʜɪs**
-- **🍵 ᴄᴀғғᴇɪɴᴇ ᴅᴇᴘᴇɴᴅᴇᴅ ʟɪғᴇ ғᴏʀᴍ.**
-- **📚 ᴄᴏᴍᴍᴜɴɪᴛʏ ᴍᴀɴᴀɢᴇʀ ғᴏʀ sɪʟᴇɴᴛ ʟɪʙʀᴀʀʏ**
-- **🏫 I'm currently learning everything I can 🤣**
 
+### **<u>💫 About Me:</u>**
 
-### **💫 About Me:**
-<hr>
 <p align = "justify">Yo! I'm a chill software dev, vibing with the code to create some laid-back and efficient solutions. My journey in the programming realm started way back, and ever since, I've been riding the chill waves, exploring various tech and programming languages. Web dev, data analysis, even some machine learning – I'm all about those mellow challenges and soaking in the wisdom from each one. But you know what really puts me in the zone? Lofi beats, man. Nothing like coding to those soothing tunes. And when I'm not deep in code, catch me in a cozy gaming sesh, just kicking back and enjoying the chill vibes. Oh, and can't forget my love for coffee – it's like my coding fuel. And let's not leave out the furry friends; I'm all about the cats and dogs. Nothing beats a good coding session with a cup of coffee and some four-legged pals by my side. </p>
 
-### **🎭 Profile Views:**
+### **<u>🎭 Profile Views:</u>**
 
 [![](https://visitcount.itsvg.in/api?id=sir-siren&icon=0&color=1)](https://visitcount.itsvg.in)
 
-### **🌐 Socials:**
+### **<u>🌐 Socials</u>:**
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@sir.sirenic)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/siren_wayne)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Sir_Sirenic)
 
-### **💻 Tech Stack:**
+### **<u>💻 Tech Stack:</u>**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -73,28 +77,25 @@
 
 
 
-### **📊 GitHub Stats:**
+### **<u>📊 GitHub Stats:</u>**
 
 ![](https://github-readme-stats.vercel.app/api?username=sir-siren&theme=react&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sir-siren&theme=react&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sir-siren&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### **🏆 GitHub Trophies:**
+### **<u>🏆 GitHub Trophies:</u>**
 
 ![](https://github-profile-trophy.vercel.app/?username=sir-siren&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### **✍️ Random Dev Quote**
+### **<u>✍️ Random Dev Quote</u>**
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### **🔝 Top Contributed Repo**
+### **<u>🔝 Top Contributed Repo</u>**
 
 ![](https://github-contributor-stats.vercel.app/api?username=sir-siren&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### **😂 Dev Meme**
-
----
-
-<img src='https://cdn.discordapp.com/attachments/1096839305751699527/1146556103035981874/Meme.png' style="height: 400px;"/>
+### **<u>😂 Dev Meme</u>**
+<img src='https://cdn.discordapp.com/attachments/1096839305751699527/1146556103035981874/Meme.png' style="height: 400px; margin-left: auto; margin-right: 1000px" />
 
 ---
