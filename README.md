@@ -75,8 +75,6 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 
-
-
 ### **<u>📊 GitHub Stats:</u>**
 
 ![](https://github-readme-stats.vercel.app/api?username=sir-siren&theme=react&hide_border=false&include_all_commits=true&count_private=true)
