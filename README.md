@@ -6,7 +6,7 @@
 </p>
 <p align="justify">
   <strong>
-    <span>😄 Pronouns: ʜᴇ•ʜɪᴍ•ʜɪs</span> |
+    <span>😄 ᴘʀᴏɴᴏᴜɴs: ʜᴇ•ʜɪᴍ•ʜɪs</span> |
     <span>👨‍🎓 ᴍ.sᴄ ᴄs ɢʀᴀᴅᴜᴀᴛᴇ</span> |
     <span>🌃 ɴʏᴄᴛᴏᴘʜɪʟɪᴀ</span> |
     <span>🍵 ᴄᴀғғᴇɪɴᴇ ᴅᴇᴘᴇɴᴅᴇᴅ ʟɪғᴇ ғᴏʀᴍ</span> |
