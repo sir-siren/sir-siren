@@ -22,7 +22,7 @@
 
 ### **<u>🎭 Profile Views:</u>**
 
-[![profilecounts](https://visitcount.itsvg.in/api?id=sir-siren&icon=0&color=1)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=sir-siren&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ### **<u>🌐 Socials</u>:**
 
