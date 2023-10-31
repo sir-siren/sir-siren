@@ -22,7 +22,7 @@
 
 ### **<u>🎭 Profile Views:</u>**
 
-[![](https://visitcount.itsvg.in/api?id=sir-siren&icon=0&color=1)](https://visitcount.itsvg.in)
+[![profilecounts](https://visitcount.itsvg.in/api?id=sir-siren&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ### **<u>🌐 Socials</u>:**
 
@@ -83,15 +83,15 @@
 
 ### **<u>🏆 GitHub Trophies:</u>**
 
-![](https://github-profile-trophy.vercel.app/?username=sir-siren&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=sir-siren&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### **<u>✍️ Random Dev Quote</u>**
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### **<u>🔝 Top Contributed Repo</u>**
 
-![](https://github-contributor-stats.vercel.app/api?username=sir-siren&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![Contributed](https://github-contributor-stats.vercel.app/api?username=sir-siren&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ### **<u>😂 Dev Meme</u>**
 <img src='https://cdn.discordapp.com/attachments/1096839305751699527/1146556103035981874/Meme.png' style="height: 400px; margin-left: auto; margin-right: 1000px" />
