@@ -88,13 +88,12 @@
 <img src = "./assets/vscode.svg">
 
 ### **<u>📊 GitHub Stats:</u>**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sir-siren&show_icons=true&theme=dark#gh-dark-mode-only&hide_border=false)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=sir-siren&theme=dark&hide_border=false)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=sir-siren&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=sir-siren&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sir-siren&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sir-siren&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### **<u>🏆 GitHub Trophies:</u>**
-
 ![](https://github-profile-trophy.vercel.app/?username=sir-siren&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ### **<u>✍️ Random Dev Quote</u>**
