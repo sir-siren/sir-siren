@@ -1,6 +1,7 @@
-<center>
-  <img src="./assets/Relax.gif" alt="Relax GIF"  style="border-radius:10px;":>
-</center>
+<p align="center">
+  <img src="./assets/coffee.png" alt="Coffee" width="100%" style="border-radius: 10px;">
+</p>
+
 
 
 <p align="center">
