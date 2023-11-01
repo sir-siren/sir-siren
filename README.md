@@ -2,8 +2,6 @@
   <img src="./assets/coffee.png" alt="Coffee" width="100%" style="border-radius: 10px;">
 </p>
 
-
-
 <p align="center">
   <h3 align="center">HI THERE, I'M SIREN 👋</h3>
 </p>
@@ -28,7 +26,9 @@
 
 ### **<u>🎭 Profile Views:</u>**
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=sir-siren&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![:name](https://count.getloli.com/get/@:sir-siren)
+
+//[![Profile Views](https://visitcount.itsvg.in/api?id=sir-siren&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 ### **<u>🌐 Socials</u>:**
 
@@ -102,6 +102,9 @@
 ![snake gif](https://github.com/sir-siren/sir-siren/blob/output/github-contribution-grid-snake.gif)
 
 ### **<u>😂 Dev Meme</u>**
-<img src='https://cdn.discordapp.com/attachments/1096839305751699527/1146556103035981874/Meme.png' style="height: 400px; margin-left: auto; margin-right: 1000px" />
+<p align="center">
+  <img src="./assets/Meme.png" alt="Coffee" width="100%" style="border-radius: 10px;">
+</p>
+
 
 ---
