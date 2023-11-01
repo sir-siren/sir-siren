@@ -8,6 +8,7 @@
 <p align="center" style = "margin-bottom:0px">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer!;Data+Scientist!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="bio">
 </p>
+
 <p align="justify">
   <strong>
     <span>😄 ᴘʀᴏɴᴏᴜɴs: ʜᴇ•ʜɪᴍ•ʜɪs</span> |
@@ -26,7 +27,7 @@
 
 ### **<u>🎭 Profile Views:</u>**
 
-![:name](https://count.getloli.com/get/@:sir-siren)
+<!-- ![:name](https://count.getloli.com/get/@:sir-siren) -->
 
 [![](https://visitcount.itsvg.in/api?id=sir-siren&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
@@ -35,6 +36,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@sir.sirenic)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/siren_wayne)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Sir_Sirenic)
+![vscode](https://api.statusbadges.me/badge/vscode/574844510367121420)
+[![spotify](https://api.statusbadges.me/badge/spotify/574844510367121420)](https://api.statusbadges.me/openspotify/574844510367121420)
 
 ### **<u>💻 Tech Stack:</u>**
 
@@ -73,6 +76,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src = "assets/svg/ubuntu.svg">
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
@@ -80,16 +84,18 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+<img src = "./assets/svg/github.svg">
+<img src = "./assets/svg/vscode.svg">
 
 ### **<u>📊 GitHub Stats:</u>**
 
-![](https://github-readme-stats.vercel.app/api?username=sir-siren&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sir-siren&theme=react&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sir-siren&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sir-siren&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sir-siren&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sir-siren&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### **<u>🏆 GitHub Trophies:</u>**
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=sir-siren&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sir-siren&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
 ### **<u>✍️ Random Dev Quote</u>**
 
@@ -97,14 +103,14 @@
 
 ### **<u>🔝 Top Contributed Repo</u>**
 
-![Contributed](https://github-contributor-stats.vercel.app/api?username=sir-siren&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sir-siren&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![snake gif](https://github.com/sir-siren/sir-siren/blob/output/github-contribution-grid-snake.gif)
 
 ### **<u>😂 Dev Meme</u>**
 <p align="center">
   <img src="./assets/Meme.png" alt="Coffee" width="100%" style="border-radius: 10px;">
 </p>
 
-
----
+ <p align="center">
+  <img src="./assets/svg/file.svg" width = "100%"/>
+</p>
