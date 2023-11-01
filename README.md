@@ -99,6 +99,8 @@
 
 ![Contributed](https://github-contributor-stats.vercel.app/api?username=sir-siren&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+![snake gif](https://github.com/sir-siren/sir-siren/blob/output/github-contribution-grid-snake.gif)
+
 ### **<u>😂 Dev Meme</u>**
 <img src='https://cdn.discordapp.com/attachments/1096839305751699527/1146556103035981874/Meme.png' style="height: 400px; margin-left: auto; margin-right: 1000px" />
 
