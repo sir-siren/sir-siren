@@ -1,3 +1,8 @@
+<center>
+  <img src="./assets/Relax.gif" alt="Relax GIF"  style="border-radius:10px;":>
+</center>
+
+
 <p align="center">
   <h3 align="center">HI THERE, I'M SIREN 👋</h3>
 </p>
