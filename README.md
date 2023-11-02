@@ -26,9 +26,8 @@
 <p align = "justify">Yo! I'm a chill software dev, vibing with the code to create some laid-back and efficient solutions. My journey in the programming realm started way back, and ever since, I've been riding the chill waves, exploring various tech and programming languages. Web dev, data analysis, even some machine learning – I'm all about those mellow challenges and soaking in the wisdom from each one. But you know what really puts me in the zone? Lofi beats, man. Nothing like coding to those soothing tunes. And when I'm not deep in code, catch me in a cozy gaming sesh, just kicking back and enjoying the chill vibes. Oh, and can't forget my love for coffee – it's like my coding fuel. And let's not leave out the furry friends; I'm all about the cats and dogs. Nothing beats a good coding session with a cup of coffee and some four-legged pals by my side. </p>
 
 ### **<u>🎭 Profile Views:</u>**
-
+![:sir-siren](https://count.getloli.com/get/@:sir-siren)
 <!-- [![](https://visitcount.itsvg.in/api?id=sir-siren&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in) -->
-
 ### **<u>🌐 Socials</u>:**
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@sir.sirenic)
