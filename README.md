@@ -32,7 +32,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@sir.sirenic)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/siren_wayne)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Sir_Sirenic)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sir_sirenic)
 ![vscode](https://api.statusbadges.me/badge/vscode/574844510367121420)
 [![spotify](https://api.statusbadges.me/badge/spotify/574844510367121420)](https://api.statusbadges.me/openspotify/574844510367121420)
 
