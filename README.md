@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./assets/banner-cafe.png" alt="Coffee" width="100%" style="border-radius: 10px;">
+  <img src="./assets/banner-cafe.png" alt="Coffee" width="100%">
 </p>
 
 <p align="center">
-  <h3 align="center">HI THERE, I'M SIREN 👋</h3>
+  <h1 align="center">𝐇𝐈 𝐓𝐇𝐄𝐑𝐄, 𝐈'𝐌 𝐒𝐈𝐑𝐄𝐍 👋</h1>
 </p>
-<p align="center" style = "margin-bottom:0px">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer!;Data+Scientist!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="bio">
 </p>
 
-<p align="justify">
+<h4 align="justify">
   <strong>
     <span>😄 ᴘʀᴏɴᴏᴜɴs: ʜᴇ•ʜɪᴍ•ʜɪs</span> |
     <span>👨‍🎓 ᴍ.sᴄ ᴄs ɢʀᴀᴅᴜᴀᴛᴇ</span> |
@@ -18,7 +18,7 @@
     <span>📚 ᴄᴏᴍᴍᴜɴɪᴛʏ ᴍᴀɴᴀɢᴇʀ ғᴏʀ sɪʟᴇɴᴛ ʟɪʙʀᴀʀʏ</span> |
     <span>🏫 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴇᴠᴇʀʏᴛʜɪɴɢ ɪ ᴄᴀɴ 🤣</span>
   </strong>
-</p>
+</h4>
 
 
 ### **<u>💫 About Me:</u>**
@@ -91,22 +91,23 @@
 
 
 ### **<u>🏆 GitHub Trophies:</u>**
-![](https://github-profile-trophy.vercel.app/?username=sir-siren&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sir-siren&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</p>
 
 ### **<u>✍️ Random Dev Quote</u>**
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Dev Quote">
+</p>
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### **<u>🔝 Top Contributed Repo</u>**
+### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=sir-siren&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
 ### **<u>😂 Dev Meme</u>**
-<p align="center">
-  <img src="./assets/Meme.png" alt="Meme" width="100%" style="border-radius: 10px;">
+<p align="left">
+  <img src="./assets/Meme.png" alt="Meme" >
 </p>
-
- <p align="center">
+<p align="center">
   <img src="./assets/file.svg" width = "100%"/>
 </p>
