@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-cafe.png" alt="Coffee" width="100%">
+  <img src="./assets/banner.WebP" alt="banner" width="100%">
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@
 
 ### **<u>😂 Dev Meme</u>**
 <p align="left">
-  <img src="./assets/Meme.png" alt="Meme" >
+  <img src="./assets/Meme.WebP" alt="Meme" >
 </p>
 <p align="center">
   <img src="./assets/file.svg" width = "100%"/>
