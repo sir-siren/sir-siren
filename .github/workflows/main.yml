@@ -27,28 +27,14 @@ steps:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: sir-siren
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
-          plugin_anilist: yes
-          plugin_anilist_limit: 2
-          plugin_anilist_limit_characters: 22
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites
-          plugin_anilist_shuffle: yes
-          plugin_anilist_user: .user.login
           plugin_calendar: yes
           plugin_calendar_limit: 1
-          plugin_introduction: yes
-          plugin_introduction_title: yes
-          plugin_leetcode: yes
-          plugin_leetcode_limit_recent: 2
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_sections: solved
-          plugin_leetcode_user: .user.login
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_skyline: yes
-          plugin_skyline_compatibility: yes
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
           plugin_skyline_settings: {
@@ -58,14 +44,8 @@ steps:
   "hide": "button, footer, a"
 }
 
-          plugin_skyline_year: 2024
+          plugin_skyline_year: current-year
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 14
-          plugin_stargazers_worldmap: yes
-          plugin_starlists: yes
-          plugin_starlists_limit: 2
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_shuffle_repositories: yes
