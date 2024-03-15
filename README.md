@@ -20,6 +20,8 @@
   </strong>
 </h4>
 
+![alt]("./sir-siren-2023.stl)
+
 
 ### **💫 ABOUT ME:**
 
