@@ -28,7 +28,7 @@
 ### **📊 Metrics:**
 
 <p align="left">
-  <img src="./assets/github-metrics.svg" alt="metrics" width="70%">
+  <img src="./github-metrics.svg" alt="metrics" width="70%">
 </p>
 
 ### **<u>🎭 Profile Views:</u>**
