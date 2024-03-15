@@ -26,7 +26,7 @@ jobs:
           #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
-         # Options
+          # Options
           template: classic
           base: ""
           config_timezone: Asia/Calcutta
@@ -38,4 +38,3 @@ jobs:
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 14
-          plugin_stargazers_worldmap: yes
