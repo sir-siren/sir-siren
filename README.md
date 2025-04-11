@@ -9,18 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer!;Data+Scientist!;&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="bio">
 </p>
 
-<h4 align="justify">
-  <strong>
-    <span>😄 ᴘʀᴏɴᴏᴜɴs: ʜᴇ•ʜɪᴍ•ʜɪs</span> |
-    <span>👨‍🎓 ᴍ.sᴄ ᴄs ɢʀᴀᴅᴜᴀᴛᴇ</span> |
-    <span>🌃 ɴʏᴄᴛᴏᴘʜɪʟɪᴀ</span> |
-    <span>🍵 ᴄᴀғғᴇɪɴᴇ ᴅᴇᴘᴇɴᴅᴇᴅ ʟɪғᴇ ғᴏʀᴍ</span> |
-    <span>📚 ᴄᴏᴍᴍᴜɴɪᴛʏ ᴍᴀɴᴀɢᴇʀ ғᴏʀ sɪʟᴇɴᴛ ʟɪʙʀᴀʀʏ</span> |
-    <span>🏫 ɪ'ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴇᴠᴇʀʏᴛʜɪɴɢ ɪ ᴄᴀɴ 🤣</span>
-  </strong>
-</h4>
-
-
 ### **💫 ABOUT ME:**
 
 <p align = "justify">Yo! I'm a chill software dev, vibing with the code to create some laid-back and efficient solutions. My journey in the programming realm started way back, and ever since, I've been riding the chill waves, exploring various tech and programming languages. Web dev, data analysis, even some machine learning – I'm all about those mellow challenges and soaking in the wisdom from each one. But you know what really puts me in the zone? Lofi beats, man. Nothing like coding to those soothing tunes. And when I'm not deep in code, catch me in a cozy gaming sesh, just kicking back and enjoying the chill vibes. Oh, and can't forget my love for coffee – it's like my coding fuel. And let's not leave out the furry friends; I'm all about the cats and dogs. Nothing beats a good coding session with a cup of coffee and some four-legged pals by my side. </p>
@@ -109,8 +97,3 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=sir-siren&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### **<u>😂 Dev Meme</u>**
-<p align="left">
-  <img src="./assets/Meme.WebP" alt="Meme" >
-</p>
