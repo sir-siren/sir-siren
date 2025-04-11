@@ -17,7 +17,7 @@ jobs:
               with:
                   token: ${{ secrets.METRICS_TOKEN }}
 
-                  # Options
+                  # Option
                   template: classic
                   base: ""
                   config_timezone: Asia/Calcutta
