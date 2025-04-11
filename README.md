@@ -114,6 +114,3 @@
 <p align="left">
   <img src="./assets/Meme.WebP" alt="Meme" >
 </p>
-<p align="center">
-  <img src="./assets/file.svg" width = "100%"/>
-</p>
