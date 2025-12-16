@@ -96,9 +96,9 @@ When I'm not coding, you can find me exploring new technologies, enjoying a good
 
 ### **3D Contribution Graph**
 <a href="./sir-siren-2023.stl">
-  <img src="https://skyline.github.com/sir-siren/2023.png" alt="Click to View 3D Model" width="100%">
+  <img src="https://img.shields.io/badge/View-3D_Model-blue?style=for-the-badge&logo=github&logoColor=white" alt="View 3D Model">
 </a>
-_Click the image above to interact with the 3D model!_
+_Click the button above to interact with the 3D model!_
 
 ### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
