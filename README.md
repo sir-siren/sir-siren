@@ -120,7 +120,7 @@ When I'm not coding, you can find me exploring new technologies, enjoying a good
 </p>
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="metrics" width="100%">
+  <img src="./assets/github-metrics.svg" alt="metrics" width="100%">
 </p>
 
 ---
