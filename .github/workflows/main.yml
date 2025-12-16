@@ -14,6 +14,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: assets/github-metrics.svg
+          committer_message: "chore: update metrics [skip ci]"
+          optimize: no
 
           # ================================================================================
           # 1. Core Configuration
