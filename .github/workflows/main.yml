@@ -19,7 +19,7 @@ jobs:
               uses: lowlighter/metrics@latest
               with:
                   token: ${{ secrets.METRICS_TOKEN }}
-                  filename: assets/github-metrics.svg
+                  filename: assets/svg/github-metrics.svg
                   user: sir-siren
                   template: classic
                   base: header, activity, community, repositories, metadata
@@ -67,6 +67,8 @@ jobs:
               run: |
                   git config --local user.email "action@github.com"
                   git config --local user.name "GitHub Action"
+                  git pull origin main --rebase
+
                   git add -A
                   git diff --staged --quiet || git commit -m "chore: update profile assets"
                   git push

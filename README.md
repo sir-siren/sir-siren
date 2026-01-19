@@ -138,7 +138,7 @@ Outside of work, I game, listen to lofi, and tinker with new tools and languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-siren&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" />
 
 ### Activity
-<img src="./assets/github-metrics.svg" alt="Metrics" width="600" />
+<img src="./assets/svg/github-metrics.svg" alt="Metrics" width="600" />
 
 </div>
 
