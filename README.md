@@ -149,13 +149,16 @@ I build web applications and work with data. My focus is on writing clean, maint
 <div align="center">
 
 ### GitHub Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=sir-siren&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="150" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sir-siren&theme=dark&hide_border=true" alt="Streak Stats" height="150" />
 
 ### Top Languages
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sir-siren&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" />
 
 ### Activity
+
 <img src="./assets/svg/github-metrics.svg" alt="Metrics" width="600" />
 
 </div>
@@ -169,5 +172,3 @@ I build web applications and work with data. My focus is on writing clean, maint
   <source media="(prefers-color-scheme: light)" srcset="./assets/svg/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Grid Snake Animation" src="./assets/svg/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-
-![](https://github-contributor-stats.vercel.app/api?username=sir-siren&limit=5&theme=dark&combine_all_yearly_contributions=true)
