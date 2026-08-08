@@ -1,0 +1,60 @@
+<svg viewBox="0 0 800 1342" width="800" height="1342"
+    xmlns="http://www.w3.org/2000/svg" font-family="SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace">
+    <rect x="0" y="0" width="800" height="1342" rx="12" ry="12" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+    <path d="M0,12 a12,12 0 0 1 12,-12 h776 a12,12 0 0 1 12,12 v28 h-800 z" fill="#161b22"/>
+    <line x1="0" y1="40" x2="800" y2="40" stroke="#30363d" stroke-width="1"/>
+    <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+    <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+    <circle cx="64" cy="20" r="6" fill="#27c93f"/>
+    <text x="400.0" y="25" font-size="13" fill="#8b949e" text-anchor="middle">siren@dev: ~</text>
+    <text x="24" y="62" font-size="14" fill="#7ee787" xml:space="preserve">siren@dev:~$ whoami</text>
+    <text x="24" y="83" font-size="14" fill="#e6edf3" xml:space="preserve">Full-stack developer, professional bug relocator</text>
+    <text x="24" y="125" font-size="14" fill="#7ee787" xml:space="preserve">siren@dev:~$ cat stack.txt</text>
+    <text x="24" y="146" font-size="14" fill="#e6edf3" xml:space="preserve">React because I have to</text>
+    <text x="24" y="167" font-size="14" fill="#e6edf3" xml:space="preserve">Go because it&#x27;s fast</text>
+    <text x="24" y="188" font-size="14" fill="#e6edf3" xml:space="preserve">Rust because I enjoy fighting the borrow checker at 2am for sport</text>
+    <text x="24" y="209" font-size="14" fill="#e6edf3" xml:space="preserve">Python whenever I need to convince someone I do data science</text>
+    <text x="24" y="230" font-size="14" fill="#8b949e" xml:space="preserve">(it&#x27;s mostly just pandas and vibes)</text>
+    <text x="24" y="272" font-size="14" fill="#7ee787" xml:space="preserve">siren@dev:~$ ./fix_bug.sh</text>
+    <text x="24" y="293" font-size="14" fill="#f85149" xml:space="preserve">error: bug not found</text>
+    <text x="24" y="314" font-size="14" fill="#79c0ff" xml:space="preserve">note: bug has been relocated to a different function</text>
+    <text x="24" y="335" font-size="14" fill="#79c0ff" xml:space="preserve">note: this is called refactoring now</text>
+    <text x="24" y="356" font-size="14" fill="#e3b341" xml:space="preserve">status: it works, nobody including me knows why, peace has been made</text>
+    <text x="24" y="398" font-size="14" fill="#7ee787" xml:space="preserve">siren@dev:~$ cat habits.log</text>
+    <text x="24" y="419" font-size="14" fill="#8b949e" xml:space="preserve">[INFO] skipped the docs, went straight to the code example</text>
+    <text x="24" y="440" font-size="14" fill="#8b949e" xml:space="preserve">[INFO] copied it, closed the tab</text>
+    <text x="24" y="461" font-size="14" fill="#8b949e" xml:space="preserve">[INFO] fluent in 6 languages, can break production in all of them</text>
+    <text x="24" y="482" font-size="14" fill="#8b949e" xml:space="preserve">[INFO] spent 4 hours automating a 2 minute task</text>
+    <text x="24" y="503" font-size="14" fill="#8b949e" xml:space="preserve">[INFO] would do it again, zero regrets</text>
+    <text x="24" y="545" font-size="14" fill="#7ee787" xml:space="preserve">siren@dev:~$ git log --oneline -5</text>
+    <text x="24" y="566" font-size="14" fill="#e6edf3" xml:space="preserve">a1b2c3d fix bug</text>
+    <text x="24" y="587" font-size="14" fill="#e6edf3" xml:space="preserve">e4f5g6h please work</text>
+    <text x="24" y="608" font-size="14" fill="#e6edf3" xml:space="preserve">h7i8j9k asdkjfhaksjdhf</text>
+    <text x="24" y="629" font-size="14" fill="#e6edf3" xml:space="preserve">l0m1n2o actual fix this time i swear</text>
+    <text x="24" y="650" font-size="14" fill="#e6edf3" xml:space="preserve">p3q4r5s // TODO: come back to this</text>
+    <text x="24" y="671" font-size="14" fill="#8b949e" xml:space="preserve">        ^ written 2 years ago, still todo</text>
+    <text x="24" y="713" font-size="14" fill="#7ee787" xml:space="preserve">siren@dev:~$ echo $OPINIONS</text>
+    <text x="24" y="734" font-size="14" fill="#e6edf3" xml:space="preserve">tabs vs spaces: redacted, don&#x27;t want a war I can&#x27;t finish</text>
+    <text x="24" y="776" font-size="14" fill="#7ee787" xml:space="preserve">siren@dev:~$ sudo systemctl restart router</text>
+    <text x="24" y="797" font-size="14" fill="#3fb950" xml:space="preserve">[  OK  ] fixed unrelated code issue</text>
+    <text x="24" y="818" font-size="14" fill="#8b949e" xml:space="preserve">[ INFO ] taught me nothing</text>
+    <text x="24" y="839" font-size="14" fill="#8b949e" xml:space="preserve">[ INFO ] confirmed everything</text>
+    <text x="24" y="881" font-size="14" fill="#7ee787" xml:space="preserve">siren@dev:~$ ls ~/keyboards | wc -l</text>
+    <text x="24" y="902" font-size="14" fill="#7ee787" xml:space="preserve">&gt; ~/friends | wc -l</text>
+    <text x="24" y="923" font-size="14" fill="#e6edf3" xml:space="preserve">mechanical keyboards: many</text>
+    <text x="24" y="944" font-size="14" fill="#e6edf3" xml:space="preserve">friends: fewer</text>
+    <text x="24" y="965" font-size="14" fill="#79c0ff" xml:space="preserve">note: the keyboards listen better anyway</text>
+    <text x="24" y="1007" font-size="14" fill="#7ee787" xml:space="preserve">siren@dev:~$ echo &quot;just gonna do a quick refactor&quot;</text>
+    <text x="24" y="1028" font-size="14" fill="#d2a8ff" xml:space="preserve">(narrator: it was not quick)</text>
+    <text x="24" y="1070" font-size="14" fill="#7ee787" xml:space="preserve">siren@dev:~$ node -e &quot;console.log(status())&quot;</text>
+    <text x="24" y="1091" font-size="14" fill="#e6edf3" xml:space="preserve">{</text>
+    <text x="40" y="1112" font-size="14" fill="#e6edf3" xml:space="preserve">  languages: [&#x27;TypeScript&#x27;, &#x27;Rust&#x27;, &#x27;Go&#x27;, &#x27;Python&#x27;],</text>
+    <text x="40" y="1133" font-size="14" fill="#e6edf3" xml:space="preserve">  currentStatus: &#x27;rewriting something that already worked&#x27;,</text>
+    <text x="40" y="1154" font-size="14" fill="#e6edf3" xml:space="preserve">  bugsFixedToday: Infinity,</text>
+    <text x="40" y="1175" font-size="14" fill="#e6edf3" xml:space="preserve">  bugsCreatedToday: Infinity + 1,</text>
+    <text x="40" y="1196" font-size="14" fill="#e6edf3" xml:space="preserve">  stackOverflowVisitsToday: &#x27;yes&#x27;,</text>
+    <text x="40" y="1217" font-size="14" fill="#e6edf3" xml:space="preserve">  itWorksOnMyMachine: true,</text>
+    <text x="40" y="1238" font-size="14" fill="#e6edf3" xml:space="preserve">  productionStatus: &#x27;please do not ask&#x27;</text>
+    <text x="24" y="1259" font-size="14" fill="#e6edf3" xml:space="preserve">}</text>
+    <text x="24" y="1301" font-size="14" fill="#7ee787" xml:space="preserve">siren@dev:~$ █</text>
+</svg>

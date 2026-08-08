@@ -19,7 +19,7 @@ jobs:
               uses: lowlighter/metrics@latest
               with:
                   token: ${{ secrets.METRICS_TOKEN }}
-                  filename: assets/svg/github-metrics.svg
+                  filename: src/assets/svg/github-metrics.svg
                   user: sir-siren
                   template: classic
                   base: header, activity, community, repositories, metadata
@@ -58,8 +58,8 @@ jobs:
               with:
                   github_user_name: ${{ github.repository_owner }}
                   outputs: |
-                      assets/svg/github-contribution-grid-snake.svg
-                      assets/svg/github-contribution-grid-snake-dark.svg?palette=github-dark
+                      src/assets/svg/github-contribution-grid-snake.svg
+                      src/assets/svg/github-contribution-grid-snake-dark.svg?palette=github-dark
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -67,7 +67,7 @@ jobs:
               run: |
                   git config --local user.email "action@github.com"
                   git config --local user.name "GitHub Action"
-                  
+
                   git add -A
                   git diff --staged --quiet || git commit -m "chore: update profile assets"
                   git pull origin main --rebase
