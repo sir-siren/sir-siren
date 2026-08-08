@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./src/assets/images/banner.png" width="100%" height="50%" border-radius="28px" alt="Banner"/>
+    <img src="./src/assets/images/banner.png" width="1500" height="500" border-radius="28px" alt="Banner"/>
     <h1>
         Hey, I'm Siren 👋
     </h1>
