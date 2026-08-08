@@ -19,13 +19,13 @@
     </a>
 </div>
 <h2>
-    <img src="./public/about.svg" width="28" height="28" style="vertical-align: middle;"/>
+    <img src="./public/about.svg" width="24" height="24" style="vertical-align: middle;"/>
     About Me
 </h2>
 <img src="./src/assets/svg/terminal-about.svg" width="100%" alt="Terminal About Me"/>
 <br/>
 <h2>
-    <img src="./public/tech.svg" width="28" height="28" style="vertical-align: middle;"/>
+    <img src="./public/tech.svg" width="24" height="24" style="vertical-align: middle;"/>
     Tech Stack
 </h2>
 <table width="100%">
@@ -104,7 +104,7 @@
 </table>
 <br/>
 <h2>
-    <img src="./public/metrics.svg" width="28" height="28" style="vertical-align: middle;"/>
+    <img src="./public/metrics.svg" width="24" height="24" style="vertical-align: middle;"/>
     Metrics
 </h2>
 <div align="center">
@@ -117,7 +117,7 @@
 </div>
 <br/>
 <h2>
-    <img src="./public/contribution.svg" width="28" height="28" style="vertical-align: middle;"/>
+    <img src="./public/contribution.svg" width="24" height="24" style="vertical-align: middle;"/>
     Contribution
 </h2>
 
